@@ -4,3 +4,11 @@ img {
     top: 0px;
     z-index: -1;
 }
+
+.sobreAsImagens
+{
+    position: absolute;
+    left: 0px;
+    top: 40vh;
+    z-index: 2;
+}
